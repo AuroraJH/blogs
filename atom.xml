@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://like-code-ljh.github.io/blogs/</id>
-    <title>Gridea</title>
-    <updated>2021-08-08T17:30:01.615Z</updated>
+    <title>灰灰爱吃肉肉的博客</title>
+    <updated>2021-08-09T07:15:54.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://like-code-ljh.github.io/blogs/"/>
     <link rel="self" href="https://like-code-ljh.github.io/blogs/atom.xml"/>
     <subtitle>知之为知之 不知为不知 是之也</subtitle>
     <logo>https://like-code-ljh.github.io/blogs/images/avatar.png</logo>
     <icon>https://like-code-ljh.github.io/blogs/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 灰灰爱吃肉肉的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://like-code-ljh.github.io/blogs/post/hello-gridea/</id>
